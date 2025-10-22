@@ -123,3 +123,31 @@ Comprehensive appointment management with multiple view options for visualizatio
 ---
 
 ⭐ *If you like this project, don’t forget to star the repository and share it!*  
+
+
+
+
+## 👨‍💻 Author & Links
+
+**Developed by:**  
+### ✳️ *Md. Dulal Hossain (Dulal)*  
+📍 Green University of Bangladesh  
+📧 [dulal.md.cse@gmail.com](mailto:dulal.md.cse@gmail.com) 
+
+🔗 **Connect with Me:**  
+
+| Platform | Link |
+|-----------|------|
+| 🧑‍💻 **GitHub** | [github.com/Dulal-CSEcode](https://github.com/Dulal-CSEcode) |
+| 🌐 **Website / Portfolio** | [md-dulal-hossain-protfolio.netlify.app](https://md-dulal-hossain-protfolio.netlify.app) |
+| 📘 **Facebook** | [facebook.com/md.dulalhossain.735944](https://facebook.com/md.dulalhossain.735944?mibextid=ZbWKwL) |
+| 🎥 **YouTube Channel (Main)** | [youtube.com/@Dulal-CSEcode](https://youtube.com/@Dulal-CSEcode) |
+| 🎥 **YouTube Channel (Alt)** | [youtube.com/@dulal-csecode](https://youtube.com/@dulal-csecode?si=ZCehq0D1Ijm0la6N) |
+| ⚙️ **Tinkercad** | [tinkercad.com/dashboard](https://www.tinkercad.com/dashboard) |
+
+📧 **Email:** [dulal@example.com](mailto:dulal@example.com)
+
+---
+
+⭐ *If you find this project helpful, please consider giving it a star and sharing it with others!*  
+

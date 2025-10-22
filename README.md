@@ -16,7 +16,7 @@ The system includes five key modules: **Patients**, **Doctors**, **Departments**
 
 ---
 
-## 🧑‍🤝‍🧑 0. Patients Module
+## 🧑‍🤝‍🧑 1. Patients Module
 
 All patient information is displayed in **Tree View** with options to **create, view, and manage** patient records.
 
@@ -33,7 +33,7 @@ All patient information is displayed in **Tree View** with options to **create, 
 
 ---
 
-## 🩺 1. Doctors Module
+## 🩺 2. Doctors Module
 
 Displays all doctors’ profiles with the ability to **add, edit, and view** detailed information.
 
@@ -53,7 +53,7 @@ Additional View:
 
 ---
 
-## 🏢 2. Department Module
+## 🏢 3. Department Module
 
 Displays all hospital departments with options to **add new departments** and assign doctors.
 
@@ -63,7 +63,7 @@ Displays all hospital departments with options to **add new departments** and as
 
 ---
 
-## 📅 3. Appointments Module
+## 📅 4. Appointments Module
 
 Comprehensive appointment management with multiple view options for visualization and tracking.
 
@@ -88,7 +88,7 @@ Comprehensive appointment management with multiple view options for visualizatio
 
 ---
 
-## 🧬 4. Medical Test Module
+## 🧬 5. Medical Test Module
 
 (Coming Soon 🔜) — Manage medical tests, reports, and lab results efficiently.
 

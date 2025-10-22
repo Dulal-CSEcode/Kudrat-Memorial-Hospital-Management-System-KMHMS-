@@ -115,9 +115,9 @@ Comprehensive appointment management with multiple view options for visualizatio
 
 ## 👨‍💻 Author
 
-**Dulal Hossain (Dulal)**  
+**Md. Dulal Hossain (Dulal)**  
 📍 Green University of Bangladesh  
-📧 [dulal@example.com](mailto:dulal@example.com)  
+📧 [dulal,nd.cse@gmail.com](mailto:dulal,nd.cse@gmail.com)  
 🌐 [Dulal-CSEcode YouTube Channel](https://www.youtube.com/@Dulal-CSEcode)
 
 ---

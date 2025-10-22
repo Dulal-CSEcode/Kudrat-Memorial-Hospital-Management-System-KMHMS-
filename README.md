@@ -113,19 +113,6 @@ Comprehensive appointment management with multiple view options for visualizatio
 
 ---
 
-## 👨‍💻 Author
-
-**Md. Dulal Hossain (Dulal)**  
-📍 Green University of Bangladesh  
-📧 [dulal.md.cse@gmail.com](mailto:dulal.md.cse@gmail.com)  
-🌐 [Dulal-CSEcode YouTube Channel](https://www.youtube.com/@Dulal-CSEcode)
-
----
-
-⭐ *If you like this project, don’t forget to star the repository and share it!*  
-
-
-
 
 ## 👨‍💻 Author & Links
 
@@ -139,13 +126,13 @@ Comprehensive appointment management with multiple view options for visualizatio
 | Platform | Link |
 |-----------|------|
 | 🧑‍💻 **GitHub** | [github.com/Dulal-CSEcode](https://github.com/Dulal-CSEcode) |
-| 🌐 **Website / Portfolio** | [md-dulal-hossain-protfolio.netlify.app](https://md-dulal-hossain-protfolio.netlify.app) |
+| 💼 **LinkedIn** | [linkedin.com/in/dulal-csecode](https://www.linkedin.com/in/dulal-csecode) |
+| 🌐 **Website / Portfolio** | [dulal-first-portfolio-by-react.vercel.app/](https://dulal-first-portfolio-by-react.vercel.app/) |
 | 📘 **Facebook** | [facebook.com/md.dulalhossain.735944](https://facebook.com/md.dulalhossain.735944?mibextid=ZbWKwL) |
 | 🎥 **YouTube Channel (Main)** | [youtube.com/@Dulal-CSEcode](https://youtube.com/@Dulal-CSEcode) |
 | 🎥 **YouTube Channel (Alt)** | [youtube.com/@dulal-csecode](https://youtube.com/@dulal-csecode?si=ZCehq0D1Ijm0la6N) |
 | ⚙️ **Tinkercad** | [tinkercad.com/dashboard](https://www.tinkercad.com/dashboard) |
 
-📧 **Email:** [dulal@example.com](mailto:dulal@example.com)
 
 ---
 

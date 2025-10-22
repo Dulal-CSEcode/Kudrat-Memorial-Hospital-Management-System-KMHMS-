@@ -117,7 +117,7 @@ Comprehensive appointment management with multiple view options for visualizatio
 
 **Md. Dulal Hossain (Dulal)**  
 📍 Green University of Bangladesh  
-📧 [dulal,nd.cse@gmail.com](mailto:dulal,nd.cse@gmail.com)  
+📧 [dulal.md.cse@gmail.com](mailto:dulal.md.cse@gmail.com)  
 🌐 [Dulal-CSEcode YouTube Channel](https://www.youtube.com/@Dulal-CSEcode)
 
 ---

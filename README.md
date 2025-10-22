@@ -1,4 +1,4 @@
-# km_hospital
+# Kudrat Memorial Hospital Management System (KMHMS)
 
 Created an Kudrat Memorial Hospital Management System (KMHMS) module where there are 5 menus for Patients, Doctors, Departments, Appointments, Medical test.
 Each menu have different views (Tree, Form, Search).
